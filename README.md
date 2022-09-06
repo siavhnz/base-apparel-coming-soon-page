@@ -43,7 +43,8 @@ Users should be able to:
 
 ### Workflow
  - Setting up workflow (Creating React app using `npx create-react-app my-app` command, Preparing README.me) 
-
+ - Identifing and Creating Components
+    - Layout, Header, UnderConstruction, SubscribeForm, ComingSoon
 
 ### Built with
 
@@ -63,7 +64,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Adding Images in React](https://create-react-app.dev/docs/adding-images-fonts-and-files/)
+
+- [Store image assets in public or src folder](https://stackoverflow.com/questions/44643041/do-i-store-image-assets-in-public-or-src-in-reactjs)
 
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
@@ -71,5 +74,7 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
+
+- Github - [@siavhnz](https://github.com/siavhnz)
 
 ## Acknowledgments
