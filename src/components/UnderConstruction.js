@@ -7,8 +7,8 @@ const UnderConstruction = () => {
     <div>
       <div>
         <picture>
-          <source media="(max-width: 767px)" srcset={HeroMobile} />
-          <source media="(min-width: 768px)" srcset={HeroDesktop} />
+          <source media="(max-width: 767px)" srcSet={HeroMobile} />
+          <source media="(min-width: 768px)" srcSet={HeroDesktop} />
           <img src={HeroMobile} alt="wr're coming soon" />
         </picture>
       </div>

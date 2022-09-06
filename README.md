@@ -68,6 +68,8 @@ Users should be able to:
 
 - [Store image assets in public or src folder](https://stackoverflow.com/questions/44643041/do-i-store-image-assets-in-public-or-src-in-reactjs)
 
+- [Modern normalize](https://github.com/sindresorhus/modern-normalize) - for Normalize browsers default style
+
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
