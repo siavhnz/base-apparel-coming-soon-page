@@ -43,22 +43,26 @@ Users should be able to:
 
 ### Workflow
  - Setting up workflow (Creating React app using `npx create-react-app my-app` command, Preparing README.me) 
+ 
  - Identifing and Creating Components
     - Layout, Header, UnderConstruction, SubscribeForm, ComingSoon
 
+ - Working on mobile design based on `desing` folder
+
 ### Built with
 
+- React
+- React CSS module
+- Mobile-first workflow
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
-
+ 
+ - Install React
+ - Work with image (svgs) in react
+ - Use React CSS module
 
 ### Continued development
 

@@ -1,0 +1,20 @@
+
+.coming-soon__announcement {
+    padding: 2rem;
+}
+
+.coming-soon__title {
+    font-size: 2.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+.coming-soon__desc {
+    font-size: 0.862rem;
+    margin-top: 0;
+    line-height: 1.375rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
