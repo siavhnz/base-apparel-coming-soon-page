@@ -6,15 +6,15 @@ import { ReactComponent as ErrorIcon } from "../assets/images/icon-error.svg";
 const SubscribeForm = () => {
   return (
     <form>
-      <div className={` ${classes["group-input"]}`}>
+      <div className={classes["group-input"]}>
         <input
           type="text"
-          className={` ${classes["group-input__input"]}`}
+          className={` ${classes["group-input__input"]} ${classes["error"]}`}
           placeholder="Email Address"
         />
         <ErrorIcon
           aria-hidden="true"
-          className={` ${classes["group-input__error-icon"]} `}
+          className={classes["group-input__error-icon"]}
         />
         <button className={classes["group-input__btn"]}>
           <ArrowIcon aria-hidden="true" />

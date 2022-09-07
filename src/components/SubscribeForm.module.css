@@ -14,6 +14,10 @@
     font-size: 0.825rem;
 }
 
+.group-input__input.error {
+    border:2px solid #f96262;
+}
+
 .group-input__input:focus,
 .group-input__input:active {
     outline: none;
@@ -36,8 +40,9 @@
     position:absolute;
     right: 0;
     background: rgb(248,191,191);
-    background: linear-gradient(135deg, rgba(248,191,191,1) 0%, rgba(238,140,140,1) 100%);
-    box-shadow: 0px 10px 10px 5px rgba(248,191,191, 0.5);
+    background: linear-gradient(135deg, rgba(248, 191, 191, 1) 0%, rgba(238, 140, 140, 1) 100%);
+    box-shadow: 0px 10px 10px 5px rgba(248, 191, 191, 0.5);
+    cursor: pointer;
 }
 
 .group-input__btn > svg {
@@ -47,4 +52,30 @@
 .warning {
     padding: 0.75rem 1.5rem;
     font-size: 0.825rem;
+}
+
+@media (min-width: 90em) { /* 1440px */
+
+    .group-input {
+        margin-top:2.125rem;
+    }
+
+    .group-input__input {
+        height: 3.5rem;
+        font-size: 1rem;
+        padding: 1.125rem 1.75rem;
+    }
+
+    .group-input__error-icon{ 
+        right: 7rem;
+        bottom: 1rem;
+    }
+
+    .group-input__btn { 
+        padding:0.8rem 2.75rem;
+    }
+
+    .group-input__btn:hover {
+        background: rgba(248, 191, 191, 0.65);
+    }
 }

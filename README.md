@@ -48,6 +48,7 @@ Users should be able to:
     - Layout, Header, UnderConstruction, SubscribeForm, ComingSoon
 
  - Working on mobile design based on `desing` folder
+ - Working on desktop design based on `desing` folder
 
 ### Built with
 
