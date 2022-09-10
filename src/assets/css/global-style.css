@@ -9,6 +9,10 @@ body {
     color: #ce9797;
 }
 
+.success {
+    color: rgb(58, 190, 65);
+}
+
 .font-light {
     font-weight: 300;
 }
