@@ -18,27 +18,38 @@
     padding-right: 0.5rem;
 }
 
-@media (min-width: 90em) { /* 1440px */
-
-    .coming-soon {
+@media (min-width: 64em) { /* 1024px */
+     .coming-soon {
         grid-area: 2 / 1 / 3 / 2;
-        margin-left: 8.5rem;
-        margin-right: 12rem;
-        margin-top:4rem;
+        margin-right: 6rem;
+        margin-top:3rem;
     }
     .coming-soon__title {
         text-align: left;
-        font-size: 4rem;
-        letter-spacing: 1rem;
-        line-height: 4.25rem;
+        font-size: 3rem;
+        line-height: 3.25rem;
     }
-
+    
     .coming-soon__desc {
         text-align: left;
         margin-top: 1.75rem;
         padding-left: 0;
         font-size: 1rem;
         line-height: 1.75rem;
+    }
+}
+
+@media (min-width: 90em) { /* 1440px */
+
+    .coming-soon {
+        margin-left: 8.5rem;
+        margin-right: 12rem;
+        margin-top:4rem;
+    }
+    .coming-soon__title {
+        font-size: 4rem;
+        letter-spacing: 1rem;
+        line-height: 4.25rem;
     }
 
 }

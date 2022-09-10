@@ -1,7 +1,9 @@
 body {
     overflow-x: hidden;
     display: flex;
-    justify-content: center;}
+    justify-content: center;
+    align-items: center;
+}
 
 .primary-color {
     color: #ce9797;
@@ -28,13 +30,19 @@ body {
     }
 }
 
+@media  (min-width: 64em) { /* 1024px */
+    .wrapper {
+        max-width: 64em;
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-template-rows: 5rem auto;
+    }
+}
+
 @media  (min-width: 90em) { /* 1440px */
 
     .wrapper {
         max-width: 90rem;
-        display: grid;
-        grid-template-columns: 1fr auto;
-        grid-template-rows: 5rem auto;
         background-image: url('../images/bg-pattern-desktop.svg');
         background-repeat: no-repeat;
     }

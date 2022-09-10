@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <div className={classes.hero}>
       <picture>
-        <source media="(max-width: 767px)" srcSet={HeroMobile} />
-        <source media="(min-width: 768px)" srcSet={HeroDesktop} />
+        <source media="(max-width: 1023px)" srcSet={HeroMobile} />
+        <source media="(min-width: 1024px)" srcSet={HeroDesktop} />
         <img src={HeroMobile} alt="wr're coming soon" />
       </picture>
     </div>

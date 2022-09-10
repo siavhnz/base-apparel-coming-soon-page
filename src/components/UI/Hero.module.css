@@ -1,9 +1,15 @@
 
-@media (min-width: 90em){
+
+@media (min-width: 64em){ /* 1024px */
     .hero {
         grid-area: 1 / 2 / 3 / 3;
+    } 
+    .hero img {
+        max-width: 30rem;
     }
+}
 
+@media (min-width: 90em){ /* 1440px */
     .hero img {
         max-width: 40rem;
     }
