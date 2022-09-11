@@ -37,12 +37,12 @@ Users should be able to:
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
 
-- Live Site: [https://app.netlify.com/](https://your-live-site-url.com)
+- Live Site: [app.netlify.com](https://ba-coming-soon-page.netlify.app/)
 
 ## My process
 
 ### Workflow
- - Setting up workflow (Creating React app using `npx create-react-app my-app` command, Preparing README.me) 
+ - Setting up workflow (Creating React app using `npx create-react-app my-app` command, Preparing README.md) 
  
  - Identifing and Creating Components
     - Layout, Header, Hero, UnderConstruction, SubscribeForm, ComingSoon
@@ -55,7 +55,7 @@ Users should be able to:
 
  - Writing README.md
 
- - Publish on github.com | netlify.com | frontmentor.io
+ - Publish on github.com | app.netlify.com | frontmentor.io
 
 ### Built with
 
