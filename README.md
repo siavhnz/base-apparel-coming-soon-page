@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.jpg)
 
 ### Links
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
 
-- Live Site: [github.io](https://your-live-site-url.com)
+- Live Site: [https://app.netlify.com/](https://your-live-site-url.com)
 
 ## My process
 
@@ -45,10 +45,17 @@ Users should be able to:
  - Setting up workflow (Creating React app using `npx create-react-app my-app` command, Preparing README.me) 
  
  - Identifing and Creating Components
-    - Layout, Header, UnderConstruction, SubscribeForm, ComingSoon
+    - Layout, Header, Hero, UnderConstruction, SubscribeForm, ComingSoon
 
  - Working on mobile design based on `desing` folder
+
  - Working on desktop design based on `desing` folder
+
+ - Working on email validity using React hook
+
+ - Writing README.md
+
+ - Publish on github.com | netlify.com | frontmentor.io
 
 ### Built with
 
@@ -60,12 +67,14 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
- 
- - Install React
- - Work with image (svgs) in react
- - Use React CSS module
+
+As a result, I learned how to think about the structure of a page in terms of components as well as the state of my components. Also, I learned how to install SVG images in React
 
 ### Continued development
+
+This is my first challenge that I used React for that
+
+The upcoming challenges will be done using React, so I can practice using it.
 
 ### Useful resources
 
@@ -75,8 +84,6 @@ Users should be able to:
 
 - [Modern normalize](https://github.com/sindresorhus/modern-normalize) - for Normalize browsers default style
 
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
@@ -84,4 +91,15 @@ Users should be able to:
 
 - Github - [@siavhnz](https://github.com/siavhnz)
 
+- Codepen - [@siavhnz](https://codepen.io/siavhnz)
+
 ## Acknowledgments
+
+Thanks To
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
+
+
+
