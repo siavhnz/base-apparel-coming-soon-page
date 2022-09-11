@@ -66,7 +66,11 @@ const SubscribeForm = () => {
           />
         )}
 
-        <button className={classes["group-input__btn"]} type="submit">
+        <button
+          aria-label="submit"
+          className={classes["group-input__btn"]}
+          type="submit"
+        >
           <ArrowIcon aria-hidden="true" />
         </button>
       </div>
