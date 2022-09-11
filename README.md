@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-by-reack-Uc3ZGf6zuu)
 
 - Live Site: [app.netlify.com](https://ba-coming-soon-page.netlify.app/)
 
